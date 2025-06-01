@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hasanat</h1>
 <h3 align="center">An ethusiastic programmer.</h3>
 
+- 👨‍💻 I'm also exploring Mobile App Dev **in Flutter**
+
 - 🌱 I’m currently learning **backend in go.**
 
 - 📫 How to reach me **sahibzadahasanatahmad@gmail.com**
