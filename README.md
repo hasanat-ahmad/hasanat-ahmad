@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hasanat</h1>
 <h3 align="center">A Computer Science Student</h3>
 
-- I'm also exploring Mobile App Dev **in Flutter**
 
-- I’m currently learning **backend in GO**
-- Working on Frontend - React
+- I’m currently learning **backend in Go**
+- Working on Frontend - **React**
+- I'm also exploring Mobile App Dev **in Flutter**
 
 - How to reach me **sahibzadahasanatahmad@gmail.com**
 
