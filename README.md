@@ -2,8 +2,8 @@
 <h3 align="center">A Computer Science Student</h3>
 
 
-- I’m currently learning **backend in Go**
-- Working on Frontend - **React**
+
+- Working on Frontend and backend - **React and FastAPI**
 - I'm also exploring Mobile App Dev **in Flutter**
 
 - How to reach me **sahibzadahasanatahmad@gmail.com**
