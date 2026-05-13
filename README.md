@@ -2,9 +2,8 @@
 <h3 align="center">A Computer Science Student</h3>
 
 
-
+- Working on Mobile App Dev **in Flutter**
 - Working on Frontend and backend - **React and FastAPI**
-- I'm also exploring Mobile App Dev **in Flutter**
 
 - How to reach me **sahibzadahasanatahmad@gmail.com**
 
