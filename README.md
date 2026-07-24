@@ -3,6 +3,7 @@
 
 
 - Working on Mobile App Dev **in Flutter**
+- Working on AI and ML
 - Working on Frontend and backend - **React and FastAPI**
 
 - How to reach me **sahibzadahasanatahmad@gmail.com**
