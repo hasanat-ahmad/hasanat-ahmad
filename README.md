@@ -56,15 +56,14 @@ I'm particularly interested in:
 
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=hasanat-ahmad&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanat-ahmad&theme=tokyonight" />
-</p>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanat-ahmad&layout=compact&theme=github_dark&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hasanat-ahmad&theme=blue_green&animation=draw)
+
+
 
 <!--
 🐍 Optional animated contribution snake:
@@ -78,7 +77,7 @@ I'm particularly interested in:
 
 <div align="center">
 
-*“Computers are good at following instructions, but not at reading your mind.” *
+“Computers are good at following instructions, but not at reading your mind.” 
 <p>Donald Knuth<p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E75B2,100:2E9EF7&height=100&section=footer" width="100%"/>
