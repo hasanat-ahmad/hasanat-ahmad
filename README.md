@@ -21,7 +21,7 @@ I'm particularly interested in:
 - 🗄️ Databases
 - 🧩 Software Engineering
 - 🌿 Git & GitHub
-- 🧠 AI/LLM application development
+- 🧠 AI/LLM application development.
 
 
 ---
