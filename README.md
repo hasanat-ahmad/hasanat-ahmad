@@ -1,84 +1,128 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E75B2&height=250&section=header&text=Hasanat%20Ahmad&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Flutter%20Developer&descAlignY=65&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,55:2E9EF7,100:8E75B2&height=230&section=header&text=Hasanat%20Ahmad&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Flutter%20Developer%20%E2%80%A2%20Building%20with%20AI&descSize=18&descAlignY=57&animation=fadeIn" width="100%" alt="Hasanat Ahmad — Full-Stack Flutter Developer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Flutter+%26+Dart+Developer;Exploring+AI%2FLLM+Application+Development" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=900&color=2E9EF7&center=true&vCenter=true&width=620&lines=Flutter+%26+Dart+%E2%80%94+apps+that+actually+ship;Firebase+%C2%B7+Node.js+%C2%B7+MongoDB+%C2%B7+REST+APIs;Building+DBrain%3A+AI+for+database+performance;Exploring+LLM-powered+apps+with+Gemini" alt="Typing intro"/>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/sahibzada-hasanat-ahmad-52822b29a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:sahibzadahasanatahmad@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+<a href="https://github.com/hasanat-ahmad?tab=followers"><img src="https://img.shields.io/github/followers/hasanat-ahmad?style=for-the-badge&logo=github&label=Followers&labelColor=0D1117&color=2E9EF7" alt="GitHub followers"/></a>
 
 </div>
 
----
+<br/>
 
-### About Me
+## 👋 About me
 
-I'm a Computer Science university student and software developer who enjoys building practical, real applications rather than just studying concepts in isolation.
+Final-year CS student at **COMSATS University Islamabad** who'd rather ship real apps than study concepts in isolation. I build cross-platform apps with **Flutter**, back them with **Firebase** or **Node.js**, and bring in **AI** where it actually earns its place.
 
-I'm particularly interested in:
+```dart
+class Hasanat extends Developer {
+  final role      = 'Full-Stack Flutter Developer';
+  final studying  = 'BS Computer Science @ COMSATS Islamabad (final year)';
+  final stack     = ['Flutter', 'Firebase', 'Node.js', 'MongoDB', 'Python'];
+  final building  = 'DBrain — AI-powered database monitoring (FYP)';
+  final interning = 'Flutter intern — mobile app for an LMS platform';
+  final leading   = 'General Secretary, IEEE Computer Society @ CUI';
 
-- 📱 Flutter & Dart
-- 🌐 Full-stack application development
-- 🔗 Backend/API integration
-- 🤖 Machine Learning
-- 🗄️ Databases
-- 🧩 Software Engineering
-- 🌿 Git & GitHub
-- 🧠 AI/LLM application development.
+  // real apps > concepts in isolation
+  @override
+  Widget build(BuildContext context) => RealApp(from: idea);
+}
+```
 
+<br/>
 
----
+## 🚀 Featured projects
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 <a href="https://github.com/hasanat-ahmad/MTAG-Queue-Skipper">MTAG Queue Skipper</a></h3>
+      <sub><b>FLUTTER · ANDROID &amp; iOS</b></sub>
+      <p>Skip the line for MTAG registration in Islamabad: add your bike, pay in-app, get a queue token, and get verified with on-device face matching.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+      <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/>
+      <img src="https://img.shields.io/badge/FaceNet%20(TFLite)-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="FaceNet TFLite"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 LMS Mobile App</h3>
+      <sub><b>INTERNSHIP · FLUTTER</b></sub>
+      <p>Building the mobile app for an existing Learning Management System, running on the same backend as its web platform.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+      <img src="https://img.shields.io/badge/REST%20APIs-2E9EF7?style=flat-square" alt="REST APIs"/>
+    </td>
+  </tr>
+</table>
 
-### 🧰 Tech Stack
+<sub><a href="https://github.com/hasanat-ahmad?tab=repositories">See all repositories →</a></sub>
 
-<p>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
+## 🧰 Tech stack
 
+<table>
+  <tr>
+    <td><b>Mobile</b></td>
+    <td><img src="https://skillicons.dev/icons?i=flutter,dart,firebase" alt="Flutter, Dart, Firebase"/></td>
+  </tr>
+  <tr>
+    <td><b>Web</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite" alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind, Vite"/></td>
+  </tr>
+  <tr>
+    <td><b>Backend &amp; data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" alt="Node.js, Express, MongoDB, PostgreSQL"/></td>
+  </tr>
+  <tr>
+    <td><b>AI / ML</b></td>
+    <td><img src="https://skillicons.dev/icons?i=py,tensorflow,anaconda" alt="Python, TensorFlow, Anaconda"/></td>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,cpp,c,go" alt="Java, C++, C, Go"/></td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Git, GitHub, VS Code, Vercel"/></td>
+  </tr>
+</table>
 
----
+<br/>
 
-
-### 📊 GitHub Stats
-
-<p align="center">
- 
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hasanat-ahmad&theme=blue_green&animation=draw" />
-</p>
-
-
-<!--
-🐍 Optional animated contribution snake:
-1. Add this repo as a GitHub Action: https://github.com/Platane/snk
-2. It generates github-contribution-grid-snake.svg automatically on a schedule
-3. Then embed it here:
-<img src="https://raw.githubusercontent.com/hasanat-ahmad/hasanat-ahmad/output/github-contribution-grid-snake.svg" />
--->
-
----
+## 📊 GitHub activity
 
 <div align="center">
 
-“Computers are good at following instructions, but not at reading your mind.” 
-<p>Donald Knuth<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=hasanat-ahmad&border_radius=12&background=0D1117&border=30363D&stroke=30363D&ring=2E9EF7&fire=8E75B2&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=2E9EF7&sideLabels=8B949E&dates=8B949E"/>
+  <img src="https://streak-stats.demolab.com/?user=hasanat-ahmad&border_radius=12&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=0175C2&fire=8E75B2&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=0175C2&sideLabels=57606A&dates=57606A" alt="GitHub streak"/>
+</picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E75B2,100:2E9EF7&height=100&section=footer" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hasanat-ahmad&bg_color=0D1117&color=8B949E&line=2E9EF7&point=8E75B2&area=true&area_color=2E9EF7&title_color=E6EDF3&border_color=30363D&radius=12&custom_title=Contribution%20activity"/>
+</picture>
+
+</div>
+
+<!-- 
+🐍 Optional animated contribution snake:
+1. Add a workflow using Platane/snk/svg-only@v3 to generate github-contribution-grid-snake.svg into an "output" branch
+2. Then embed it here:
+<img src="https://raw.githubusercontent.com/hasanat-ahmad/hasanat-ahmad/output/github-contribution-grid-snake.svg" /> -->
+
+
+<br/>
+
+<div align="center">
+
+<i>“Computers are good at following instructions, but not at reading your mind.”</i><br/>
+<sub>— Donald Knuth</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E75B2,45:2E9EF7,100:02569B&height=120&section=footer" width="100%" alt=""/>
 
 </div>
