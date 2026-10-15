@@ -35,7 +35,7 @@ class Hasanat extends Developer {
 
 <br/>
 
-## 🚀 Featured projects
+##  Featured projects
 
 <table>
   <tr>
