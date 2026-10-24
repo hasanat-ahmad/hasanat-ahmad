@@ -24,8 +24,8 @@ class Hasanat extends Developer {
   final studying  = 'BS Computer Science @ COMSATS Islamabad (final year)';
   final stack     = ['Flutter', 'Firebase', 'Node.js', 'MongoDB', 'Python'];
   final building  = 'DBrain — AI-powered database monitoring (FYP)';
-  final interning = 'Flutter intern — mobile app for an LMS platform';
-  final leading   = 'General Secretary, IEEE Computer Society @ CUI';
+  final interning = 'exFlutter intern — mobile app for an LMS platform';
+  final leading   = 'exGeneral Secretary, IEEE Computer Society @ CUI';
 
   // real apps > concepts in isolation
   @override
